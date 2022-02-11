@@ -183,9 +183,11 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 
 ### Drupal modules
 
+Notice: Modules in emfasis are the most used across the Drupal universe.
+
 #### JSON API (core)
 
-[JSON API](https://jsonapi.org) [Drupal core module documentation](https://www.drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module)
+[jsonapi.org](https://jsonapi.org), [JSON API: Drupal core module documentation](https://www.drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module)
 
 - **Basic**
   - **decoupled_kit**
