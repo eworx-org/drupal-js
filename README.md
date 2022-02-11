@@ -1,14 +1,14 @@
-# Drupal decoupled backend with JS frotentd
+# Drupal decoupled backend with JS frontend
 
 Best practices, basic steps, lists of tools and tips to help you integrate a Drupal 8.x+ backend with a Javascript frontend.
 
-_Notice: Some exaples bellow refer only to React development and are not JS agnostic._
+_Notice: Some examples bellow refer only to React development and are not JS agnostic._
 
 ---
 
 ## JS
 
-### Popular JS frontent frameworks
+### Popular JS frontend frameworks
 
 - [React](https://reactjs.org)
   - [Gatsby](https://www.gatsbyjs.com)
@@ -25,7 +25,7 @@ _Notice: Some exaples bellow refer only to React development and are not JS agno
 
 Online services to use when comparing frameworks (trends, popularity, usage, downloads, benchmarks etc).
 
-- **Questionaires**
+- **Questionnaires**
   - https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/
   - https://www.jetbrains.com/lp/devecosystem-2021/javascript/
   - https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks
@@ -50,7 +50,7 @@ Online services to use when comparing frameworks (trends, popularity, usage, dow
 - **Benchmarks**
   - https://krausest.github.io/js-framework-benchmark
 
-### Paramaters to consider when selecting a frontend framework
+### Parameters to consider when selecting a frontend framework
 
 List is of random order.
 
@@ -83,7 +83,7 @@ Notice: Before using these tools try to use the built-in, bundled tools you get 
 - Data fetch: [axios](https://axios-http.com), [react-query](https://react-query.tanstack.com), [SWR](https://swr.vercel.app), [node-fetch](https://www.npmjs.com/package/node-fetch)
 - Data parser: [qs](https://www.npmjs.com/package/qs)
 - Routing: [React Router](https://reactrouter.com)
-- Quality scan:  [danger](https://www.npmjs.com/package/danger)
+- Quality:  [danger](https://www.npmjs.com/package/danger)
 - Logging: [pino](https://getpino.io)
 - Documentation: [jsdoc](https://www.npmjs.com/package/jsdoc)
 - Performance: [next-boost](https://github.com/next-boost/next-boost), [react-lazy-load-image-component](https://www.npmjs.com/package/react-lazy-load-image-component), [node-cache](https://www.npmjs.com/package/node-cache), [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer)
