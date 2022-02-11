@@ -76,8 +76,6 @@ Notice: Before using these tools try to use the built-in, bundled tools you get 
 - [PostCSS](https://postcss.org)
 - [JSX](https://reactjs.org/docs/introducing-jsx.html)
 - [JSON](https://www.json.org/json-en.html), [JSON API](https://jsonapi.org)
-
-
 - Bundlers: [Webpack](https://webpack.js.org), [esbuild](https://esbuild.github.io)
 - Code linting etc: [EditorConfig](http://editorconfig.org), [ESLint](https://eslint.org), [Prettier](https://prettier.io), [JSLint](https://www.jslint.com)
 - Code generators: [Hygen](https://www.hygen.io), [nx](https://nx.dev), [ReexJs CLI](https://codingcodax.github.io/reexjs-cli), [generact](https://github.com/diegohaz/generact)
