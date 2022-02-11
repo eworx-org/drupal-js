@@ -423,4 +423,6 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 
 ---
 
-[LICENCE: MIT 2022](LICENSE) by [EWORX S.A.](https://github.com/eworx-org)
+## LICENSE
+
+[MIT](LICENSE) - Copyright (c) 2022 [EWORX S.A.](https://github.com/eworx-org)
