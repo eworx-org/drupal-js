@@ -138,17 +138,17 @@ In order to start with JS you sould be familiar with the basic terms bellow. Not
 - Avoid too much nesting
 - Keep with the trends (e.g. use common names like "`src, public, pages, __tests__, docs`" etc
 
-### Styling a JS app
-
-- Prefer "CSS in files" approach except if there are specific requirements.
-- For inline styles use utility CSS libraries like [tailwindcss](https://tailwindcss.com) and [Windi CSS](https://windicss.org)
-- For UI building isolation and sandboxing use [Storybook](https://storybook.js.org), [React Styleguidist](https://react-styleguidist.js.org), [React Cosmos](https://reactcosmos.org), [React Preview](https://reactpreview.com) etc.
-
 ```
 ToDo: Add some example structure here..
 ```
 
 Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), [2](https://hackernoon.com/react-project-structure-best-practices-kh20323x), [3](https://blog.usejournal.com/folder-structure-in-react-apps-c2ae8974d21f), [4](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76), [5](https://reactjs.org/docs/faq-structure.html)
+
+### Styling a JS app
+
+- Prefer "CSS in files" approach except if there are specific requirements.
+- For inline styles use utility CSS libraries like [tailwindcss](https://tailwindcss.com) and [Windi CSS](https://windicss.org)
+- For UI building isolation and sandboxing use [Storybook](https://storybook.js.org), [React Styleguidist](https://react-styleguidist.js.org), [React Cosmos](https://reactcosmos.org), [React Preview](https://reactpreview.com) etc.
 
 ---
 
@@ -312,7 +312,6 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 - https://druxtjs.org (Nuxt)
 - https://stack.lupus.digital (Nuxt)
 
-
 ### npm packages for Drupal
 
 - [d8-jsonapi-querystring](https://www.npmjs.com/package/d8-jsonapi-querystring)
@@ -322,7 +321,6 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 - [drupal-sdk](https://www.npmjs.com/package/drupal-sdk)
 - [jsonapi-parse](https://www.npmjs.com/package/jsonapi-parse)
 - [react-drupal-json-api](https://www.npmjs.com/package/react-drupal-json-api)
-
 
 ### Drupal common issues with decoupled
 
@@ -362,11 +360,9 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 - Starter: https://github.com/systemseed/drupal_reactjs_boilerplate
 - Example: https://github.com/DrupalizeMe/react-and-drupal-examples
 
-
 ### Articles
 
 - https://www.smashingmagazine.com/2021/11/maintain-large-nextjs-application
-
 
 ---
 
@@ -405,7 +401,6 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 
 - https://www.smashingmagazine.com/2021/11/maintain-large-nextjs-application
 - https://stackabuse.com/guide-to-getting-started-with-nextjs-create-a-nextjs-app
-
 
 ---
 
