@@ -126,6 +126,7 @@ In order to start with JS you sould be familiar with the basic terms bellow. Not
 - module
 - node daemon
 - package
+- virtual DOM
 
 ### Learn JS frameworks basics
 
