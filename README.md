@@ -20,7 +20,7 @@ _Notice: Some examples bellow refer only to React development and are not JS agn
   - [JS app structure](#js-app-structure)
   - [Styling a JS app](#styling-a-js-app)
 - [Drupal](#drupal)
-- [About Drupal decoupled solutions](#about-drupal-decoupled-solutions)
+  - [About Drupal decoupled solutions](#about-drupal-decoupled-solutions)
   - [Drupal slack channels](#drupal-slack-channels)
   - [Drupal modules](#drupal-modules)
     - [JSON API (core)](#json-api-core)
@@ -41,6 +41,7 @@ _Notice: Some examples bellow refer only to React development and are not JS agn
   - [NextJS popular tools](#nextjs-popular-tools)
   - [Articles](#articles-1)
 - [Final tips](#final-tips)
+- [CONTRIBUTING](#contributing)
 - [LICENSE](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
