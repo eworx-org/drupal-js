@@ -404,7 +404,7 @@ Notice: Modules in emfasis are the most used across the Drupal universe.
 - Starter: https://github.com/systemseed/drupal_reactjs_boilerplate
 - Example: https://github.com/DrupalizeMe/react-and-drupal-examples
 
-### Articles
+### Articles for React
 
 - https://www.smashingmagazine.com/2021/11/maintain-large-nextjs-application
 
@@ -425,12 +425,12 @@ Notice: Modules in emfasis are the most used across the Drupal universe.
 
 ### Learn NextJS
 
-- https://nextjs.org/learn/basics/create-nextjs-app
-- https://nextjstips.com
+- [nextjs.org/learn/basics/create-nextjs-app](https://nextjs.org/learn/basics/create-nextjs-app)
+- [nextjstips.com](https://nextjstips.com)
 
 ### Drupal + NextJS
 
-- https://next-drupal.org
+- [next-drupal.org](https://next-drupal.org)
 - [About Drupal, Gatsby and Next](https://gist.github.com/colorfield/22b1a451d90b2a159c7d3d679197812f)
 - [Next.js and Headless CMS - GitHub issue](https://github.com/vercel/next.js/discussions/33087)
 
@@ -441,7 +441,7 @@ Notice: Modules in emfasis are the most used across the Drupal universe.
 - https://github.com/atilafassina/next-g11n (Translate and localize your Next.js app smoothly)
 - https://github.com/next-boost/next-boost (Adds a cache layer to your SSR applications)
 
-### Articles
+### Articles for NextJS
 
 - https://www.smashingmagazine.com/2021/11/maintain-large-nextjs-application
 - https://stackabuse.com/guide-to-getting-started-with-nextjs-create-a-nextjs-app

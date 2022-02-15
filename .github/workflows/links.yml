@@ -1,4 +1,4 @@
-name: Links
+name: Links Checker
 
 on:
   repository_dispatch:
