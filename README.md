@@ -343,6 +343,7 @@ Notice: Modules in emfasis are the most used across the Drupal universe.
 
 ## Framework: React
 
+- https://reactjs.org
 - https://github.com/enaqx/awesome-react
 - https://github.com/brillout/awesome-react-components
 
