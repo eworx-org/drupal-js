@@ -135,7 +135,7 @@ In order to start with JS you sould be familiar with the basic terms bellow. Not
 
 ### JS app structure
 
-- Move files around until it feels right
+- [Move files around until it feels right](https://react-file-structure.surge.sh/)
 - Group by file type
 - Avoid too much nesting
 - Keep with the trends (e.g. use common names like "`src, public, pages, __tests__, docs`" etc
