@@ -6,8 +6,44 @@ _Notice: Some examples bellow refer only to React development and are not JS agn
 
 ---
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [JS](#js)
+  - [Popular JS frontend frameworks](#popular-js-frontend-frameworks)
+  - [Compare JS frameworks](#compare-js-frameworks)
+  - [Parameters to consider when selecting a frontend framework](#parameters-to-consider-when-selecting-a-frontend-framework)
+  - [Tools for JS development](#tools-for-js-development)
+  - [JS terminology](#js-terminology)
+  - [Learn JS frameworks basics](#learn-js-frameworks-basics)
+  - [JS app structure](#js-app-structure)
+  - [Styling a JS app](#styling-a-js-app)
+- [Drupal](#drupal)
+- [About Drupal decoupled solutions](#about-drupal-decoupled-solutions)
+  - [Drupal slack channels](#drupal-slack-channels)
+  - [Drupal modules](#drupal-modules)
+    - [JSON API (core)](#json-api-core)
+    - [GraphQL](#graphql)
+    - [Other](#other)
+  - [Drupal Distributions](#drupal-distributions)
+  - [Drupal starter-kits with JS frameworks](#drupal-starter-kits-with-js-frameworks)
+  - [npm packages for Drupal](#npm-packages-for-drupal)
+  - [Drupal common issues with decoupled](#drupal-common-issues-with-decoupled)
+- [Framework: React](#framework-react)
+  - [Learn React](#learn-react)
+  - [Drupal + React](#drupal--react)
+  - [Articles](#articles)
+- [Framework: NextJS](#framework-nextjs)
+  - [Why choose NextJS](#why-choose-nextjs)
+  - [Learn NextJS](#learn-nextjs)
+  - [Drupal + NextJS](#drupal--nextjs)
+  - [NextJS popular tools](#nextjs-popular-tools)
+  - [Articles](#articles-1)
+- [Final tips](#final-tips)
+- [LICENSE](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## JS
 
