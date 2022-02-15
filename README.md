@@ -74,6 +74,7 @@ Notice: Before using these tools try to use the built-in, bundled tools you get 
 - [Storybook](https://storybook.js.org)
 - [Babel](https://babeljs.io)
 - [PostCSS](https://postcss.org)
+- [husky](https://github.com/typicode/husky)
 - [JSX](https://reactjs.org/docs/introducing-jsx.html)
 - [JSON](https://www.json.org/json-en.html), [JSON API](https://jsonapi.org)
 - Bundlers: [Webpack](https://webpack.js.org), [esbuild](https://esbuild.github.io)
@@ -90,7 +91,7 @@ Notice: Before using these tools try to use the built-in, bundled tools you get 
 - Security: (npm built-in: `npm-audit, npm-outdated, npm-doctor` [npm-check](https://www.npmjs.com/package/npm-check), [snyk](https://snyk.io), [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
 - State management: [redux](https://redux.js.org), [zustand](https://github.com/pmndrs/zustand), [recoil](https://recoiljs.org), [jotai](https://jotai.org)
 - Translations, i18n: [lingui](https://github.com/lingui/js-lingui), [polyglot](https://www.npmjs.com/package/node-polyglot)
-- Mocks, faker: [sinon](https://sinonjs.org), [faker](https://fakerjs.dev)
+- Mocks, faker: [sinon](https://sinonjs.org), [faker](https://fakerjs.dev), [JSON Server fake API](https://www.npmjs.com/package/json-server)
 
 ### JS terminology
 
