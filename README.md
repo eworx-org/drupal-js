@@ -453,14 +453,15 @@ Notice: Modules in emfasis are the most used across the Drupal universe.
 - Make it really "decoupled" (except if other requirements)
 - Keep it simple. Use the basic tools and extend when needed.
 - Less JS packages and less Drupal modules is prefferable.
-- Work only with NodeJS lts versions.
+- Work only with NodeJS LTS versions.
 - Think in Components
 - Create enough Components
 - Modify the state directly
-- Add keys on the lists
+- Add keys on the lists (inside JS Components)
 - Declare types, validate functions
 - Always test your Components and app
 - Dockerize your JS app
+- For security updates of npm packages prefer to update the main JS library used (eg Next, React etc) and not the several npm packages independently.
 - Drupal: Prefer Drupal modules from core (e.g. JSON API instead of GraphQL)
 - Drupal: Do not override the default Drupal field machine names on JSON
 - Start with the official starter kits (e.g [create-react-app](https://create-react-app.dev/))
