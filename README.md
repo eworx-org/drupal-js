@@ -424,7 +424,7 @@ Notice: Modules in emfasis are the most used across the Drupal universe.
 - Dockerize your JS app
 - Drupal: Prefer Drupal modules from core (e.g. JSON API instead of GraphQL)
 - Drupal: Do not override the default Drupal field machine names on JSON
-- Start with the official starter kits
+- Start with the official starter kits (e.g [create-react-app](https://create-react-app.dev/))
 
 ---
 
