@@ -20,7 +20,7 @@ _Notice: Some examples bellow refer only to React development and are not JS agn
   - [JS app structure](#js-app-structure)
   - [Styling a JS app](#styling-a-js-app)
 - [Drupal](#drupal)
-  - [About Drupal decoupled solutions](#about-drupal-decoupled-solutions)
+- [About Drupal decoupled solutions](#about-drupal-decoupled-solutions)
   - [Drupal slack channels](#drupal-slack-channels)
   - [Drupal modules](#drupal-modules)
     - [JSON API (core)](#json-api-core)
@@ -220,7 +220,6 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 - [#druxt (NuxtJS)](https://app.slack.com/client/T06GX3JTS/C01ALFZ8459)
 - [#vue](https://app.slack.com/client/T06GX3JTS/C9SR65F6K)
 - [#custom-elements](https://app.slack.com/client/T06GX3JTS/C01G23CS86Q)
-
 
 ### Drupal modules
 
@@ -464,6 +463,12 @@ Notice: Modules in emfasis are the most used across the Drupal universe.
 - Drupal: Prefer Drupal modules from core (e.g. JSON API instead of GraphQL)
 - Drupal: Do not override the default Drupal field machine names on JSON
 - Start with the official starter kits (e.g [create-react-app](https://create-react-app.dev/))
+
+---
+
+## CONTRIBUTING
+
+[Contribution guide](CONTRIBUTING)
 
 ---
 
