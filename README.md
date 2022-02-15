@@ -6,6 +6,9 @@ _Notice: Some examples bellow refer only to React development and are not JS agn
 
 ---
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## JS
 
 ### Popular JS frontend frameworks
