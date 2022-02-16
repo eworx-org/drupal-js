@@ -2,7 +2,7 @@
 
 Best practices, basic steps, lists of tools and tips to help you integrate a Drupal 8.x+ backend with a JavaScript frontend.
 
-_Notice: Some examples bellow refer only to React development and are not JS agnostic._
+_Notice: Some examples below refer only to React development and are not JS agnostic._
 
 ---
 
