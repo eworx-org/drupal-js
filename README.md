@@ -189,7 +189,7 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 ### Styling a JS app
 
 - Prefer "CSS in files" approach except if there are specific requirements.
-- For inline styles use utility CSS libraries like [tailwindcss](https://tailwindcss.com) and [Windi CSS](https://windicss.org)
+- For inline styles you can use utility CSS libraries like [tailwindcss](https://tailwindcss.com) and [Windi CSS](https://windicss.org)
 - For UI building isolation and sandboxing use [Storybook](https://storybook.js.org), [React Styleguidist](https://react-styleguidist.js.org), [React Cosmos](https://reactcosmos.org), [React Preview](https://reactpreview.com) etc.
 
 ---
