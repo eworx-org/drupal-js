@@ -13,7 +13,7 @@ _Note: Some examples below refer only to React development and are not JS agnost
 - [JS](#js)
   - [Popular JS frontend frameworks](#popular-js-frontend-frameworks)
   - [Compare JS frameworks](#compare-js-frameworks)
-  - [Parameters to consider when selecting a frontend framework](#parameters-to-consider-when-selecting-a-frontend-framework)
+  - [Things to consider when selecting a frontend framework (in no particular order)](#things-to-consider-when-selecting-a-frontend-framework-in-no-particular-order)
   - [Tools for JS development](#tools-for-js-development)
   - [JS terminology](#js-terminology)
   - [Learn JS frameworks basics](#learn-js-frameworks-basics)
