@@ -470,7 +470,7 @@ Notice: Modules in emfasis are the most used across the Drupal universe.
 
 ## CONTRIBUTING
 
-[Contribution guide](CONTRIBUTING)
+[Contribution guide](CONTRIBUTING.md)
 
 ---
 
