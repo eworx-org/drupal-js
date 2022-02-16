@@ -90,9 +90,7 @@ Online services to use when comparing frameworks (trends, popularity, usage, dow
 - **Benchmarks**
   - https://krausest.github.io/js-framework-benchmark
 
-### Parameters to consider when selecting a frontend framework
-
-List is of random order.
+### Things to consider when selecting a frontend framework (in no particular order)
 
 - Performance
 - Stability
