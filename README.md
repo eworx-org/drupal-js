@@ -224,7 +224,7 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 
 ### Drupal modules
 
-Note: Modules in emfasis are the most used across the Drupal universe.
+Note: Modules in emphasis are the most used across the Drupal universe.
 
 #### JSON API (core)
 
