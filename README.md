@@ -2,7 +2,7 @@
 
 Best practices, basic steps, lists of tools and tips to help you integrate a Drupal 8.x+ backend with a JavaScript frontend.
 
-_Notice: Some examples below refer only to React development and are not JS agnostic._
+_Note: Some examples below refer only to React development and are not JS agnostic._
 
 ---
 
@@ -106,7 +106,7 @@ List is of random order.
 
 ### Tools for JS development
 
-Notice: Before using these tools try to use the built-in, bundled tools you get from each framework.
+Note: Before using these tools try to use the built-in, bundled tools you get from each framework.
 
 - [VSCode](https://code.visualstudio.com)
 - [nvm](https://github.com/nvm-sh/nvm), [npm](https://www.npmjs.com) (no need to use `yarn` over `npm` in 2022)
@@ -135,7 +135,7 @@ Notice: Before using these tools try to use the built-in, bundled tools you get 
 
 ### JS terminology
 
-In order to start with JS you sould be familiar with the basic terms below. Notice that some of them may refer to a specific JS framework.
+In order to start with JS you sould be familiar with the basic terms below. Note that some of them may refer to a specific JS framework.
 
 - CORS
 - Cache
@@ -224,7 +224,7 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 
 ### Drupal modules
 
-Notice: Modules in emfasis are the most used across the Drupal universe.
+Note: Modules in emfasis are the most used across the Drupal universe.
 
 #### JSON API (core)
 
