@@ -118,7 +118,7 @@ Note: Before using these tools try to use the built-in, bundled tools you get fr
 - Bundlers: [Webpack](https://webpack.js.org), [esbuild](https://esbuild.github.io)
 - Code linting etc: [EditorConfig](http://editorconfig.org), [ESLint](https://eslint.org), [Prettier](https://prettier.io), [JSLint](https://www.jslint.com)
 - Code generators: [Hygen](https://www.hygen.io), [nx](https://nx.dev), [ReexJs CLI](https://codingcodax.github.io/reexjs-cli), [generact](https://github.com/diegohaz/generact)
-- Testing: [Jest](https://jestjs.io), [Cypress](https://cypress.io), [testing-library](https://testing-library.com)
+- Testing: [Jest](https://jestjs.io), [Cypress](https://cypress.io), [testing-library](https://testing-library.com), [nightwatchjs](https://nightwatchjs.org), [playwright](https://playwright.dev)
 - Data fetch: [axios](https://axios-http.com), [react-query](https://react-query.tanstack.com), [SWR](https://swr.vercel.app), [node-fetch](https://www.npmjs.com/package/node-fetch)
 - Data parser: [qs](https://www.npmjs.com/package/qs)
 - Routing: [React Router](https://reactrouter.com)
