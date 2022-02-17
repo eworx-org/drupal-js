@@ -89,6 +89,9 @@ Online services to use when comparing frameworks (trends, popularity, usage, dow
   - https://packagephobia.com
 - **Benchmarks**
   - https://krausest.github.io/js-framework-benchmark
+- **Browser Support**
+  - https://kangax.github.io/compat-table/es6
+  - https://caniuse.com
 
 ### Things to consider when selecting a frontend framework (in no particular order)
 
