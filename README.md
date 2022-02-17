@@ -66,8 +66,8 @@ _Note: Some examples below refer only to React development and are not JS agnost
 Online services to use when comparing frameworks (trends, popularity, usage, downloads, benchmarks etc).
 
 - **Questionnaires**
-  - https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/
-  - https://www.jetbrains.com/lp/devecosystem-2021/javascript/
+  - https://2021.stateofjs.com/en-US/libraries/front-end-frameworks
+  - https://www.jetbrains.com/lp/devecosystem-2021/javascript
   - https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks
 - **Trends**
   - https://trends.google.com/trends/explore?cat=733&date=today%205-y&q=React,Vue,Angular,Next
