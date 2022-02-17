@@ -188,7 +188,7 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 ### Styling a JS app
 
 - Prefer "CSS in files" approach except if there are specific requirements.
-- For inline styles you can use utility CSS libraries like [tailwindcss](https://tailwindcss.com) and [Windi CSS](https://windicss.org)
+- For inline styles you can use utility CSS libraries like [tailwindcss](https://tailwindcss.com) and [Windi CSS](https://windicss.org).
 - For UI building isolation and sandboxing use [Storybook](https://storybook.js.org), [React Styleguidist](https://react-styleguidist.js.org), [React Cosmos](https://reactcosmos.org), [React Preview](https://reactpreview.com) etc.
 
 ---
@@ -463,6 +463,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 - For security updates of npm packages prefer to update the main JS library used (eg Next, React etc) and not the several npm packages independently.
 - Drupal: Prefer Drupal modules from core (e.g. JSON API instead of GraphQL)
 - Drupal: Do not override the default Drupal field machine names on JSON
+- Drupal: prefer quering the `search_api` to get search results on the JS App when using 3rd party search engines like SOLR.
 - Start with the official starter kits (e.g [create-react-app](https://create-react-app.dev/))
 
 ---
