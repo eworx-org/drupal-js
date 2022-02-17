@@ -169,6 +169,7 @@ In order to start with JS you sould be familiar with the basic terms below. Note
 
 ### Learn JS frameworks basics
 
+- https://github.com/sorrycc/awesome-javascript
 - https://www.patterns.dev
 
 ### JS app structure
