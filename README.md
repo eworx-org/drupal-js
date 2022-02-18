@@ -381,6 +381,50 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 - Invalidate partial cache
 - Forms
 
+### Implementation matrix
+
+An **example matrix for common requirements** of a decoupled Drupal backend with JS frontend. 
+
+The table show which part of the app should take care of each functionality. 
+
+For example, we could get the site logo from Drupal but we could also use a static image on the JS side as a logo.
+
+Notice that, in some cases, there may be a combination of the two parts or a 3rd party solution (eg an external CDN for image assets).
+
+| Requirement | Drupal backend | JS frontend |
+| --- | :---: | :---: | 
+| access and permissions | ⬜ |⬜|
+| authentication | ⬜ | ⬜ |
+| basic site settings (eg logo, site name, site slogan etc) | ⬜ | ⬜ |
+| breadcrumbs | ⬜ | ⬜ |
+| caching | ⬜ | ⬜ |
+| collections (views VS JSON API entity queries) | ⬜ | ⬜ |
+| CORS | ⬜ | ⬜ |
+| CRUD requirements | ⬜ | ⬜ |
+| embedded HTML on CKEditor | ⬜ | ⬜ |
+| file attachments | ⬜ | ⬜ |
+| forms | ⬜ | ⬜ |
+| image styles | ⬜ | ⬜ |
+| menus | ⬜ | ⬜ |
+| metatags | ⬜ | ⬜ |
+| mocking data | ⬜ | ⬜ |
+| modifying JSON response | ⬜ | ⬜ |
+| multilingual | ⬜ | ⬜ |
+| multisite | ⬜ | ⬜ |
+| partial cache invalidation | ⬜ | ⬜ |
+| path aliases | ⬜ | ⬜ |
+| preview | ⬜ | ⬜ |
+| redirects | ⬜ | ⬜ |
+| relationships and field references | ⬜ | ⬜ |
+| revisions | ⬜ | ⬜ |
+| routing | ⬜ | ⬜ |
+| search_api | ⬜ | ⬜ |
+| sub-requests | ⬜ | ⬜ |
+| third party scripts (eg gtag) | ⬜ | ⬜ |
+| UI translations | ⬜ | ⬜ |
+| workflows (content moderation) | ⬜ | ⬜ |
+| xml sitemap | ⬜ | ⬜ |
+
 ---
 
 ## Framework: React
