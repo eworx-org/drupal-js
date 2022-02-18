@@ -395,7 +395,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 - [Complete guide React + Drupal - drupalize.me](https://drupalize.me/series/drupal-8-and-reactjs)
 - [React in patterns](https://krasimir.gitbooks.io/react-in-patterns)
 - [30 Days of React - GitHub](https://github.com/Asabeneh/30-Days-Of-React)
-- [Functional Components - codeburst.io](https://codeburst.io/react-js-understanding-functional-class-components-e65d723e909)
+- [Functional Components](https://programmingwithmosh.com/react/react-functional-components)
 - React Components: https://reactjs.org/docs/react-component.html, https://github.com/brillout/awesome-react-components
 - React Hooks: https://reactjs.org/docs/hooks-intro.html, https://usehooks.com
 - React Props: https://akd3257.medium.com/what-are-props-in-react-2f822330e3a7
