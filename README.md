@@ -30,6 +30,7 @@ _Note: Some examples below refer only to React development and are not JS agnost
   - [Drupal starter-kits with JS frameworks](#drupal-starter-kits-with-js-frameworks)
   - [npm packages for Drupal](#npm-packages-for-drupal)
   - [Drupal common issues with decoupled](#drupal-common-issues-with-decoupled)
+  - [Implementation matrix](#implementation-matrix)
 - [Framework: React](#framework-react)
   - [Learn React](#learn-react)
   - [Drupal + React](#drupal--react)
