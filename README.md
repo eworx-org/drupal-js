@@ -41,6 +41,10 @@ _Note: Some examples below refer only to React development and are not JS agnost
   - [Drupal + NextJS](#drupal--nextjs)
   - [NextJS popular tools](#nextjs-popular-tools)
   - [Articles for NextJS](#articles-for-nextjs)
+- [Framework: DruxtJS / Nuxt.js](#framework-druxtjs--nuxtjs)
+  - [Why choose Nuxt.js](#why-choose-nuxtjs)
+  - [Why use Druxt](#why-use-druxt)
+  - [Druxt Quick-start templates](#druxt-quick-start-templates)
 - [Final tips](#final-tips)
 - [CONTRIBUTING](#contributing)
 - [LICENSE](#license)
@@ -492,6 +496,39 @@ Notice that, in some cases, there may be a combination of the two parts or a 3rd
 
 - https://www.smashingmagazine.com/2021/11/maintain-large-nextjs-application
 - https://stackabuse.com/guide-to-getting-started-with-nextjs-create-a-nextjs-app
+
+---
+
+## Framework: DruxtJS / Nuxt.js
+
+- https://druxtjs.org
+- https://nuxtjs.org
+- https://github.com/nuxt-community/awesome-nuxt
+
+### Why choose Nuxt.js
+
+- Better SEO. Suppports SSR and SSG.
+- Built in solutions for common requirements (routing, head/metatags, images, links, font optimization, data fetching, injected scripts, i18n, AMP)
+- Built in tools (Typescript, Sass, ESLint, Webpack, env variables, preview mode, polyfills)
+- Better Development Experience (DX) (zero config, built in tools, fast refresh)
+- Based on Vue (can use all the Vue goodies)
+
+### Why use Druxt
+
+> Druxt = DRUpal + nuXT
+
+- Fully Decoupled Drupal, with Nuxt.js in the frontend.
+- Drupal JSON:API Client with Vuex caching.
+- Modular Vue.js component library system.
+- Slot and Wrapper theming system.
+- API and File proxy.
+- [druxtjs.org](https://druxtjs)
+
+### Druxt Quick-start templates
+
+- [DruxtSite](https://github.com/druxt/quickstart-druxt-site)
+- [DruxtSite w/tome sync](https://github.com/druxt/quickstart-druxt-site-tome)
+- [Serverless Druxt](https://github.com/druxt/quickstart-druxt-serverless)
 
 ---
 
