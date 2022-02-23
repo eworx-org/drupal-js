@@ -518,7 +518,7 @@ Notice that, in some cases, there may be a combination of the two parts or a 3rd
 
 > Druxt = DRUpal + nuXT
 
-- [druxtjs.org](https://druxtjs)
+- [druxtjs.org](https://druxtjs.org)
 - Fully Decoupled Drupal, with Nuxt.js in the frontend.
 - Drupal JSON:API Client with Vuex caching.
 - Modular Vue.js component library system.
