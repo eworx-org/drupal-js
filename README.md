@@ -354,6 +354,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 - https://www.contentacms.org
 - https://www.drupal.org/project/tide
 - https://github.com/systemseed/falcon
+- https://github.com/codingsasi/acephalous
 - https://www.drupal.org/project/ezcontent (using REST, not a decoupled example)
 
 ### Drupal starter-kits with JS frameworks
