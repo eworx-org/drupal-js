@@ -499,7 +499,7 @@ Notice that, in some cases, there may be a combination of the two parts or a 3rd
 
 ---
 
-## Framework: DruxtJS / Nuxt.js
+## Framework: Nuxt.js
 
 - https://druxtjs.org
 - https://nuxtjs.org
@@ -513,16 +513,16 @@ Notice that, in some cases, there may be a combination of the two parts or a 3rd
 - Better Development Experience (DX) (zero config, built in tools, fast refresh)
 - Based on Vue (can use all the Vue goodies)
 
-### Why use Druxt
+### Drupal + Nuxt.js = Druxt
 
 > Druxt = DRUpal + nuXT
 
+- [druxtjs.org](https://druxtjs)
 - Fully Decoupled Drupal, with Nuxt.js in the frontend.
 - Drupal JSON:API Client with Vuex caching.
 - Modular Vue.js component library system.
 - Slot and Wrapper theming system.
 - API and File proxy.
-- [druxtjs.org](https://druxtjs)
 
 ### Druxt Quick-start templates
 
