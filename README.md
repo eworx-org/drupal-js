@@ -128,7 +128,7 @@ Note: Before using these tools try to use the built-in, bundled tools you get fr
 - Code generators: [Hygen](https://www.hygen.io), [nx](https://nx.dev), [ReexJs CLI](https://codingcodax.github.io/reexjs-cli), [generact](https://github.com/diegohaz/generact)
 - Testing: [Jest](https://jestjs.io), [Cypress](https://cypress.io), [testing-library](https://testing-library.com), [nightwatchjs](https://nightwatchjs.org), [playwright](https://playwright.dev)
 - Data fetch: [axios](https://axios-http.com), [react-query](https://react-query.tanstack.com), [SWR](https://swr.vercel.app), [node-fetch](https://www.npmjs.com/package/node-fetch)
-- Data parser: [qs](https://www.npmjs.com/package/qs)
+- Data parser: [qs](https://www.npmjs.com/package/qs), [html-react-parser](https://github.com/remarkablemark/html-react-parser)
 - Routing: [React Router](https://reactrouter.com)
 - Quality:  [danger](https://www.npmjs.com/package/danger)
 - Logging: [pino](https://getpino.io)
