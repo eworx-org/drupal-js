@@ -311,6 +311,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 - **Administration**
   - **restui**
   - jsonapi_explorer
+  - jsonapi_node_preview_tab
   - restuiextention
   - api_proxy
 - **Forms**
