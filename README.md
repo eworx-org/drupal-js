@@ -531,6 +531,7 @@ Notice that, in some cases, there may be a combination of the two parts or a 3rd
 - [DruxtSite](https://github.com/druxt/quickstart-druxt-site)
 - [DruxtSite w/tome sync](https://github.com/druxt/quickstart-druxt-site-tome)
 - [Serverless Druxt](https://github.com/druxt/quickstart-druxt-serverless)
+- [DruxtModule (template)](https://github.com/druxt/module-template)
 
 ---
 
