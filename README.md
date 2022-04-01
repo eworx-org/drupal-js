@@ -274,6 +274,8 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - **jsonapi_search_api**
 - **Preview**
   - **dpl**
+  - **jsonapi_node_preview**
+  - **jsonapi_node_preview_tab**
 - **Performance**
   - jsonapi_earlyrendering_workaround
   - **jsonapi_boost**
