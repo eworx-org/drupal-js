@@ -256,6 +256,8 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - rest_menu_items
   - rest_normalizer
   - https://github.com/pmelab/contextual_aliases
+- **Data**
+  - config_pages 
 - **Subrequests, nesting**
   - jsonapi_include
   - rest_entity_recursive
