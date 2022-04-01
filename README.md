@@ -238,121 +238,121 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 [jsonapi.org](https://jsonapi.org), [JSON API: Drupal core module documentation](https://www.drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module)
 
 - **Basic**
-  - **decoupled_kit**
-  - **decoupled_menus**
-  - **drupal_jsonapi_params**
-  - entity_view_mode_normalize
-  - fieldable_path
-  - jsonapi_aliases
-  - jsonapi_comment
-  - jsonapi_embed
-  - **jsonapi_extras**
-  - **jsonapi_menu_items**
-  - **jsonapi_views**
-  - jsonrpc
-  - pager_serializer
-  - rest_absolute_urls
-  - rest_menu_detail
-  - rest_menu_items
-  - rest_normalizer
+  - **[decoupled_kit](https://drupal.org/project/decoupled_kit)**
+  - **[decoupled_menus](https://drupal.org/project/decoupled_menus)**
+  - **[drupal_jsonapi_params](https://drupal.org/project/drupal_jsonapi_params)**
+  - [entity_view_mode_normalize](https://drupal.org/project/entity_view_mode_normalize)
+  - [fieldable_path](https://drupal.org/project/fieldable_path)
+  - [jsonapi_aliases](https://drupal.org/project/jsonapi_aliases)
+  - [jsonapi_comment](https://drupal.org/project/jsonapi_comment)
+  - [jsonapi_embed](https://drupal.org/project/jsonapi_embed)
+  - **[jsonapi_extras](https://drupal.org/project/jsonapi_extras)**
+  - **[jsonapi_menu_items](https://drupal.org/project/jsonapi_menu_items)**
+  - **[jsonapi_views](https://drupal.org/project/jsonapi_views)**
+  - [jsonrpc](https://drupal.org/project/jsonrpc)
+  - [pager_serializer](https://drupal.org/project/pager_serializer)
+  - [rest_absolute_urls](https://drupal.org/project/rest_absolute_urls)
+  - [rest_menu_detail](https://drupal.org/project/rest_menu_detail)
+  - [rest_menu_items](https://drupal.org/project/rest_menu_items)
+  - [rest_normalizer](https://drupal.org/project/rest_normalizer)
   - https://github.com/pmelab/contextual_aliases
 - **Data**
-  - config_pages 
+  - [config_pages](https://drupal.org/project/config_pages) 
 - **Subrequests, nesting**
-  - jsonapi_include
-  - rest_entity_recursive
-  - rest_export_nested
-  - **subrequests**
+  - [jsonapi_include](https://drupal.org/project/jsonapi_include)
+  - [rest_entity_recursive](https://drupal.org/project/rest_entity_recursive)
+  - [rest_export_nested](https://drupal.org/project/rest_export_nested)
+  - **[subrequests](https://drupal.org/project/subrequests)**
 - **Routing**
-  - **decoupled_router**
-  - entity_router
+  - **[decoupled_router](https://drupal.org/project/decoupled_router)**
+  - [entity_router](https://drupal.org/project/entity_router)
 - **Collections**
-  - jsonapi_cross_bundles
-  - decoupled_pages
-  - jsonapi_resources
-  - page_manager
-  - jsonapi_user_resources
+  - [jsonapi_cross_bundles](https://drupal.org/project/jsonapi_cross_bundles)
+  - [decoupled_pages](https://drupal.org/project/decoupled_pages)
+  - [jsonapi_resources](https://drupal.org/project/jsonapi_resources)
+  - [page_manager](https://drupal.org/project/page_manager)
+  - [jsonapi_user_resources](https://drupal.org/project/jsonapi_user_resources)
 - **Search**
   - **jsonapi_search_api**
 - **Preview**
-  - **dpl**
-  - **jsonapi_node_preview**
-  - **jsonapi_node_preview_tab**
+  - **[dpl](https://drupal.org/project/dpl)**
+  - **[jsonapi_node_preview](https://drupal.org/project/jsonapi_node_preview)**
+  - **[jsonapi_node_preview_tab](https://drupal.org/project/jsonapi_node_preview_tab)**
 - **Performance**
-  - jsonapi_earlyrendering_workaround
-  - **jsonapi_boost**
-  - **warmer**
+  - [jsonapi_earlyrendering_workaround](https://drupal.org/project/jsonapi_earlyrendering_workaround)
+  - **[jsonapi_boost](https://drupal.org/project/jsonapi_boost)**
+  - **[warmer](https://drupal.org/project/warmer)**
 - **Images**
-  - **jsonapi_image_styles**
-  - **consumer_image_styles**
-  - image_derivatives_selection
-  - image_derivatives_base64_representation
+  - **[jsonapi_image_styles](https://drupal.org/project/jsonapi_image_styles)**
+  - **[consumer_image_styles](https://drupal.org/project/consumer_image_styles)**
+  - [image_derivatives_selection](https://drupal.org/project/image_derivatives_selection)
+  - [image_derivatives_base64_representation](https://drupal.org/project/image_derivatives_base64_representation)
 - **Rate limits**
-  - rate_limiter
-  - **rate_limits**
+  - [rate_limiter](https://drupal.org/project/rate_limiter)
+  - **[rate_limits](https://drupal.org/project/rate_limits)**
 - **API Documentation**
-  - schemata
-  - openapi_ui_swagger
-  - **openapi**
-  - openapi_ui
-  - **openapi_jsonapi**
-  - openapi_rest
-  - **openapi_ui_redoc**
-  - swagger_ui_formatter
-  - jsonapi_schema
-  - social_json_api
+  - [schemata](https://drupal.org/project/schemata)
+  - [openapi_ui_swagger](https://drupal.org/project/openapi_ui_swagger)
+  - **[openapi](https://drupal.org/project/openapi)**
+  - [openapi_ui](https://drupal.org/project/openapi_ui)
+  - **[openapi_jsonapi](https://drupal.org/project/openapi_jsonapi)**
+  - [openapi_rest](https://drupal.org/project/openapi_rest)
+  - **[openapi_ui_redoc](https://drupal.org/project/openapi_ui_redoc)**
+  - [swagger_ui_formatter](https://drupal.org/project/swagger_ui_formatter)
+  - [jsonapi_schema](https://drupal.org/project/jsonapi_schema)
+  - [social_json_api](https://drupal.org/project/social_json_api)
 - **Authentication**
-  - api_proxy
-  - **simple_oauth**
-  - **consumers**
-  - **cors_ui**
-  - rest_api_authentication
-  - key_auth
-  - api_key_manager
-  - access_filter
-  - jsonapi_access
-  - rest_password
+  - [api_proxy](https://drupal.org/project/api_proxy)
+  - **[simple_oauth](https://drupal.org/project/simple_oauth)**
+  - **[consumers](https://drupal.org/project/consumers)**
+  - **[cors_ui](https://drupal.org/project/cors_ui)**
+  - [rest_api_authentication](https://drupal.org/project/rest_api_authentication)
+  - [key_auth](https://drupal.org/project/key_auth)
+  - [api_key_manager](https://drupal.org/project/api_key_manager)
+  - [access_filter](https://drupal.org/project/access_filter)
+  - [jsonapi_access](https://drupal.org/project/jsonapi_access)
+  - [rest_password](https://drupal.org/project/rest_password)
 - **Administration**
-  - **restui**
-  - jsonapi_explorer
-  - jsonapi_node_preview_tab
-  - restuiextention
-  - api_proxy
+  - **[restui](https://drupal.org/project/restui)**
+  - [jsonapi_explorer](https://drupal.org/project/jsonapi_explorer)
+  - [jsonapi_node_preview_tab](https://drupal.org/project/jsonapi_node_preview_tab)
+  - [restuiextention](https://drupal.org/project/restuiextention)
+  - [api_proxy](https://drupal.org/project/api_proxy)
 - **Forms**
-  - **webform_rest**
-  - webform_jsonschema
-  - rjsf
+  - **[webform_rest](https://drupal.org/project/webform_rest)**
+  - [webform_jsonschema](https://drupal.org/project/webform_jsonschema)
+  - [rjsf](https://drupal.org/project/rjsf)
 - **Logging**
-  - **http_client_log**
-  - request_logger
-  - rest_log
-  - restfullogger
+  - **[http_client_log](https://drupal.org/project/http_client_log)**
+  - [request_logger](https://drupal.org/project/request_logger)
+  - [rest_log](https://drupal.org/project/rest_log)
+  - [restfullogger](https://drupal.org/project/restfullogger)
 
 #### GraphQL
 
 (Advice: Do not prefer GraphQL over JSON API except if there are special requirements)
 
 - **graphql**
-- graphql_entity_by_object
-- graphql_entity_definitions
-- graphql_extras
-- graphql_formatters
-- graphql_menu
-- graphql_metatag
-- graphql_node_preview
-- graphql_redirect
-- graphql_redirect_entity
-- graphql_search_api
-- graphql_views
-- graphql_webform
-- preview_graphql
+- [graphql_entity_by_object](https://drupal.org/project/graphql_entity_by_object)
+- [graphql_entity_definitions](https://drupal.org/project/graphql_entity_definitions)
+- [graphql_extras](https://drupal.org/project/graphql_extras)
+- [graphql_formatters](https://drupal.org/project/graphql_formatters)
+- [graphql_menu](https://drupal.org/project/graphql_menu)
+- [graphql_metatag](https://drupal.org/project/graphql_metatag)
+- [graphql_node_preview](https://drupal.org/project/graphql_node_preview)
+- [graphql_redirect](https://drupal.org/project/graphql_redirect)
+- [graphql_redirect_entity](https://drupal.org/project/graphql_redirect_entity)
+- [graphql_search_api](https://drupal.org/project/graphql_search_api)
+- [graphql_views](https://drupal.org/project/graphql_views)
+- [graphql_webform](https://drupal.org/project/graphql_webform)
+- [preview_graphql](https://drupal.org/project/preview_graphql)
 
 #### Other
 
-- pdb
-- **relaxed**
-- jdrupal
-- js_component
+- [pdb](https://drupal.org/project/pdb)
+- **[relaxed](https://drupal.org/project/relaxed)**
+- [jdrupal](https://drupal.org/project/jdrupal)
+- [js_component](https://drupal.org/project/js_component)
 
 ### Drupal Distributions
 
