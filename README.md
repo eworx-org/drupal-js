@@ -282,11 +282,12 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - [jsonapi_earlyrendering_workaround](https://drupal.org/project/jsonapi_earlyrendering_workaround)
   - **[jsonapi_boost](https://drupal.org/project/jsonapi_boost)**
   - **[warmer](https://drupal.org/project/warmer)**
-- **Images**
+- **Images/Files**
   - **[jsonapi_image_styles](https://drupal.org/project/jsonapi_image_styles)**
   - **[consumer_image_styles](https://drupal.org/project/consumer_image_styles)**
   - [image_derivatives_selection](https://drupal.org/project/image_derivatives_selection)
   - [image_derivatives_base64_representation](https://drupal.org/project/image_derivatives_base64_representation)
+  - [filefield_sources_jsonapi](https://www.drupal.org/project/filefield_sources_jsonapi)
 - **Rate limits**
   - [rate_limiter](https://drupal.org/project/rate_limiter)
   - **[rate_limits](https://drupal.org/project/rate_limits)**
