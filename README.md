@@ -235,7 +235,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 
 #### JSON API (core)
 
-[jsonapi.org](https://jsonapi.org), [JSON API: Drupal core module documentation](https://www.drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module)
+[jsonapi.org](https://jsonapi.org), [JSON API: Drupal core module documentation](https://www.drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module), [Ecosystem modules for JSON:API](https://www.drupal.org/project/jsonapi/ecosystem)
 
 - **Basic**
   - **[decoupled_kit](https://drupal.org/project/decoupled_kit)**
