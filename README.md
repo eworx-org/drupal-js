@@ -255,6 +255,8 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - [rest_menu_detail](https://drupal.org/project/rest_menu_detail)
   - [rest_menu_items](https://drupal.org/project/rest_menu_items)
   - [rest_normalizer](https://drupal.org/project/rest_normalizer)
+  - [jsonapi_hypermedia](https://www.drupal.org/project/jsonapi_hypermedia)
+  - [jsonapi_example](https://www.drupal.org/project/jsonapi_example)
   - https://github.com/pmelab/contextual_aliases
 - **Data**
   - [config_pages](https://drupal.org/project/config_pages) 
