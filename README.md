@@ -356,6 +356,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 - **[relaxed](https://drupal.org/project/relaxed)**
 - [jdrupal](https://drupal.org/project/jdrupal)
 - [js_component](https://drupal.org/project/js_component)
+- [gdwc](https://www.drupal.org/project/gdwc)
 
 ### Drupal Distributions
 
