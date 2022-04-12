@@ -378,6 +378,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 - [drupal-jsonapi-extractor](https://www.npmjs.com/package/drupal-jsonapi-extractor)
 - [drupal-jsonapi-params](https://www.npmjs.com/package/drupal-jsonapi-params)
 - [drupal-sdk](https://www.npmjs.com/package/drupal-sdk)
+- [drupal-state](https://www.npmjs.com/package/@gdwc/drupal-state) (see docs at [drupalcode.org/drupal_state](https://project.pages.drupalcode.org/drupal_state)
 - [jsonapi-parse](https://www.npmjs.com/package/jsonapi-parse)
 - [react-drupal-json-api](https://www.npmjs.com/package/react-drupal-json-api)
 
