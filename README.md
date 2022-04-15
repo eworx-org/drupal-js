@@ -493,6 +493,7 @@ Notice that, in some cases, there may be a combination of the two parts or a 3rd
 ### Drupal + NextJS
 
 - [next-drupal.org](https://next-drupal.org)
+- [TallerWebSolutions/next-on-drupal](https://github.com/TallerWebSolutions/next-on-drupal)
 - [About Drupal, Gatsby and Next](https://gist.github.com/colorfield/22b1a451d90b2a159c7d3d679197812f)
 - [Next.js and Headless CMS - GitHub issue](https://github.com/vercel/next.js/discussions/33087)
 
