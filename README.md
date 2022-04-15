@@ -275,7 +275,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - [page_manager](https://drupal.org/project/page_manager)
   - [jsonapi_user_resources](https://drupal.org/project/jsonapi_user_resources)
 - **Search**
-  - **jsonapi_search_api**
+  - **[jsonapi_search_api](https://www.drupal.org/project/jsonapi_search_api)**
 - **Preview**
   - **[dpl](https://drupal.org/project/dpl)**
   - **[jsonapi_node_preview](https://drupal.org/project/jsonapi_node_preview)**
