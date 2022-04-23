@@ -277,6 +277,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 - **Search**
   - **[jsonapi_search_api](https://www.drupal.org/project/jsonapi_search_api)**
 - **Preview**
+  - **[decoupled_preview](https://www.drupal.org/project/decoupled_preview)**
   - **[dpl](https://drupal.org/project/dpl)**
   - **[jsonapi_node_preview](https://drupal.org/project/jsonapi_node_preview)**
   - **[jsonapi_node_preview_tab](https://drupal.org/project/jsonapi_node_preview_tab)**
