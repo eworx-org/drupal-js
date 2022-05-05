@@ -383,6 +383,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 - [drupal-state](https://www.npmjs.com/package/@gdwc/drupal-state) (see docs at [drupalcode.org/drupal_state](https://project.pages.drupalcode.org/drupal_state)
 - [jsonapi-parse](https://www.npmjs.com/package/jsonapi-parse)
 - [react-drupal-json-api](https://www.npmjs.com/package/react-drupal-json-api)
+- [drupal-kit](https://www.npmjs.com/package/@pantheon-systems/drupal-kit)
 
 ### Drupal common issues with decoupled
 
