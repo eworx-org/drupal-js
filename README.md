@@ -374,6 +374,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 - https://next-drupal.org (Next)
 - https://druxtjs.org (Nuxt)
 - https://stack.lupus.digital (Nuxt)
+- https://github.com/acquia/next-acms (Next)
 
 ### npm packages for Drupal
 
