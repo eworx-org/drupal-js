@@ -205,6 +205,7 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 
 ### About Drupal decoupled solutions
 
+- https://www.drupal.org/docs/develop/decoupled-drupal
 - https://dri.es/headless-cms-rest-vs-jsonapi-vs-graphql
 - https://dri.es/how-to-decouple-drupal-in-2019
 - https://dri.es/drupal-looking-to-adopt-react
