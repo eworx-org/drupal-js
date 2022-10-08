@@ -394,6 +394,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 - [jsonapi-parse](https://www.npmjs.com/package/jsonapi-parse)
 - [react-drupal-json-api](https://www.npmjs.com/package/react-drupal-json-api)
 - [drupal-kit](https://www.npmjs.com/package/@pantheon-systems/drupal-kit)
+- [drupal-js-sdk](https://www.npmjs.com/package/drupal-js-sdk)
 
 ### Drupal common issues with decoupled
 
