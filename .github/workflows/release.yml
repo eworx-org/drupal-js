@@ -1,0 +1,18 @@
+name: Generate GH release
+on:
+  push:
+    tags:
+      - "*"
+env:
+  MODE: "dev"
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Get latest git tag
+        run: git describe --tags --abbrev=0
+        id: get_latest_tag
+      - name: Release
+        uses: softprops/action-gh-release@v1
