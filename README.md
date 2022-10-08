@@ -216,6 +216,7 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 - https://medium.com/analytics-vidhya/decoupled-drupal-as-a-solution-bd0ec25f39cf
 - https://opensenselabs.com/blog/articles/different-options-decoupling-drupal
 - https://www.lullabot.com/articles/decoupled-hard-problems-routing
+- https://noti.st/brianperry/2Fvgeu/drupal-state-and-the-need-for-a-javascript-sdk
 
 ### Drupal slack channels
 
