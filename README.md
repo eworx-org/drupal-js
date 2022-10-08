@@ -293,6 +293,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - [image_derivatives_selection](https://drupal.org/project/image_derivatives_selection)
   - [image_derivatives_base64_representation](https://drupal.org/project/image_derivatives_base64_representation)
   - [filefield_sources_jsonapi](https://www.drupal.org/project/filefield_sources_jsonapi)
+  - [jsonapi_flysystem_uploader](https://www.drupal.org/project/jsonapi_flysystem_uploader)
 - **Rate limits**
   - [rate_limiter](https://drupal.org/project/rate_limiter)
   - **[rate_limits](https://drupal.org/project/rate_limits)**
@@ -333,6 +334,8 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - [request_logger](https://drupal.org/project/request_logger)
   - [rest_log](https://drupal.org/project/rest_log)
   - [restfullogger](https://drupal.org/project/restfullogger)
+- **Translations**
+  - [decoupled_interface_translations](https://www.drupal.org/project/decoupled_interface_translations)
 
 #### GraphQL
 
@@ -361,6 +364,8 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 - [jdrupal](https://drupal.org/project/jdrupal)
 - [js_component](https://drupal.org/project/js_component)
 - [gdwc](https://www.drupal.org/project/gdwc)
+- [api_toolkit](https://www.drupal.org/project/api_toolkit)
+- [decoupled](https://www.drupal.org/project/decoupled)
 
 ### Drupal Distributions
 
