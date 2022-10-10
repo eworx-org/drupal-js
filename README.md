@@ -328,6 +328,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - [jsonapi_node_preview_tab](https://drupal.org/project/jsonapi_node_preview_tab)
   - [restuiextention](https://drupal.org/project/restuiextention)
   - [api_proxy](https://drupal.org/project/api_proxy)
+  - [decoupled_toolbox](https://drupal.org/project/decoupled_toolbox)
 - **Forms**
   - **[webform_rest](https://drupal.org/project/webform_rest)**
   - [webform_jsonschema](https://drupal.org/project/webform_jsonschema)
