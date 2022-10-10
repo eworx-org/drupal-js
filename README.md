@@ -321,6 +321,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - [access_filter](https://drupal.org/project/access_filter)
   - [jsonapi_access](https://drupal.org/project/jsonapi_access)
   - [rest_password](https://drupal.org/project/rest_password)
+  - [jsonapi_role_access](https://drupal.org/project/jsonapi_role_access)
 - **Administration**
   - **[restui](https://drupal.org/project/restui)**
   - [jsonapi_explorer](https://drupal.org/project/jsonapi_explorer)
