@@ -218,6 +218,7 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 - https://opensenselabs.com/blog/articles/different-options-decoupling-drupal
 - https://www.lullabot.com/articles/decoupled-hard-problems-routing
 - https://noti.st/brianperry/2Fvgeu/drupal-state-and-the-need-for-a-javascript-sdk
+- [My Headless/Decoupled CMS Comparison Matrix, 2017, krynsky.com](https://krynsky.com/my-headless-decoupled-content-management-software-and-services-comparison-matrix)
 
 ### Drupal slack channels
 
