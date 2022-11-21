@@ -46,6 +46,7 @@ _Note: Some examples below refer only to React development and are not JS agnost
   - [Drupal + Nuxt.js = Druxt](#drupal--nuxtjs--druxt)
   - [Druxt Quick-start templates](#druxt-quick-start-templates)
 - [Final tips](#final-tips)
+- [Similar resources](#similar-resources)
 - [CONTRIBUTING](#contributing)
 - [LICENSE](#license)
 
@@ -129,7 +130,7 @@ Note: Before using these tools try to use the built-in, bundled tools you get fr
 - Testing: [Jest](https://jestjs.io), [Cypress](https://cypress.io), [testing-library](https://testing-library.com), [nightwatchjs](https://nightwatchjs.org), [playwright](https://playwright.dev)
 - Data fetch: [axios](https://axios-http.com), [react-query](https://react-query.tanstack.com), [SWR](https://swr.vercel.app), [node-fetch](https://www.npmjs.com/package/node-fetch)
 - Data parser: [qs](https://www.npmjs.com/package/qs), [html-react-parser](https://github.com/remarkablemark/html-react-parser)
-- Routing: [React Router](https://reactrouter.com)
+- Routing: [React Router](https://reactrouter.com), [TanStack Router](https://tanstack.com/router)
 - Quality:  [danger](https://www.npmjs.com/package/danger)
 - Logging: [pino](https://getpino.io)
 - Documentation: [jsdoc](https://www.npmjs.com/package/jsdoc)
@@ -297,6 +298,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - [image_derivatives_base64_representation](https://drupal.org/project/image_derivatives_base64_representation)
   - [filefield_sources_jsonapi](https://www.drupal.org/project/filefield_sources_jsonapi)
   - [jsonapi_flysystem_uploader](https://www.drupal.org/project/jsonapi_flysystem_uploader)
+  - [nplowman/jsonapi-reusable-images](https://github.com/nplowman/jsonapi-reusable-images)
 - **Rate limits**
   - [rate_limiter](https://drupal.org/project/rate_limiter)
   - **[rate_limits](https://drupal.org/project/rate_limits)**
@@ -323,6 +325,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - [jsonapi_access](https://drupal.org/project/jsonapi_access)
   - [rest_password](https://drupal.org/project/rest_password)
   - [jsonapi_role_access](https://drupal.org/project/jsonapi_role_access)
+  - [simonbaese/consumer_permissions](https://github.com/simonbaese/consumer_permissions)
 - **Administration**
   - **[restui](https://drupal.org/project/restui)**
   - [jsonapi_explorer](https://drupal.org/project/jsonapi_explorer)
@@ -580,6 +583,12 @@ Notice that, in some cases, there may be a combination of the two parts or a 3rd
 - Drupal: Do not override the default Drupal field machine names on JSON
 - Drupal: prefer quering the `search_api` to get search results on the JS App when using 3rd party search engines like SOLR.
 - Start with the official starter kits (e.g [create-react-app](https://create-react-app.dev/))
+
+---
+
+## Similar resources
+
+- [d34dman/awesome-drupal-jsonapi](https://github.com/d34dman/awesome-drupal-jsonapi)
 
 ---
 
