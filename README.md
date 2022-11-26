@@ -278,6 +278,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - [jsonapi_cross_bundles](https://drupal.org/project/jsonapi_cross_bundles)
   - [decoupled_pages](https://drupal.org/project/decoupled_pages)
   - [jsonapi_resources](https://drupal.org/project/jsonapi_resources)
+  - [jsonapi_field_formatter](https://www.drupal.org/project/jsonapi_field_formatter)
   - [page_manager](https://drupal.org/project/page_manager)
   - [jsonapi_user_resources](https://drupal.org/project/jsonapi_user_resources)
 - **Search**
