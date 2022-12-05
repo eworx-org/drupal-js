@@ -368,6 +368,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 
 #### Other
 
+- [services](https://www.drupal.org/project/services)
 - [pdb](https://drupal.org/project/pdb)
 - **[relaxed](https://drupal.org/project/relaxed)**
 - [jdrupal](https://drupal.org/project/jdrupal)
