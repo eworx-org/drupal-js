@@ -7,7 +7,7 @@
 - https://www.digitalocean.com/community/tutorials/understanding-javascript-promises
 
 ## React Basics
-- https://reactjs.org/docs/glossary.html (may prefer to read from https://beta.reactjs.org)
+- https://reactjs.org/docs/glossary.html (may prefer to read from the new https://react.dev)
 - https://reactjs.org/docs/hello-world.html
 - https://reactpatterns.com
 
