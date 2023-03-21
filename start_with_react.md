@@ -1,5 +1,7 @@
 > There is always an [enaqx/awesome-react](https://github.com/enaqx/awesome-react) for reference!
 
+Last updated 2023-01-10
+
 ## JS basics
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 - https://kentcdodds.com/blog/javascript-to-know-for-react
