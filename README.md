@@ -338,6 +338,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - **[webform_rest](https://drupal.org/project/webform_rest)**
   - [webform_jsonschema](https://drupal.org/project/webform_jsonschema)
   - [rjsf](https://drupal.org/project/rjsf)
+  - [next_webform](https://www.drupal.org/project/next_webform)
 - **Logging**
   - **[http_client_log](https://drupal.org/project/http_client_log)**
   - [request_logger](https://drupal.org/project/request_logger)
