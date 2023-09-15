@@ -263,6 +263,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - [jsonapi_hypermedia](https://www.drupal.org/project/jsonapi_hypermedia)
   - [jsonapi_bulk_exclude](https://www.drupal.org/project/jsonapi_bulk_exclude)
   - [jsonapi_example](https://www.drupal.org/project/jsonapi_example)
+  - [transform_api](https://www.drupal.org/project/transform_api)
   - https://github.com/pmelab/contextual_aliases
 - **Data**
   - [config_pages](https://drupal.org/project/config_pages) 
