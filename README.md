@@ -254,6 +254,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - **[jsonapi_extras](https://drupal.org/project/jsonapi_extras)**
   - **[jsonapi_menu_items](https://drupal.org/project/jsonapi_menu_items)**
   - **[jsonapi_views](https://drupal.org/project/jsonapi_views)**
+  - [jsonapi_pathauto_breadcrumbs](https://www.drupal.org/project/jsonapi_pathauto_breadcrumbs)
   - [jsonrpc](https://drupal.org/project/jsonrpc)
   - [pager_serializer](https://drupal.org/project/pager_serializer)
   - [rest_absolute_urls](https://drupal.org/project/rest_absolute_urls)
@@ -264,7 +265,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - [jsonapi_bulk_exclude](https://www.drupal.org/project/jsonapi_bulk_exclude)
   - [jsonapi_example](https://www.drupal.org/project/jsonapi_example)
   - [transform_api](https://www.drupal.org/project/transform_api)
-  - https://github.com/pmelab/contextual_aliases
+  - [contextual_aliases](https://github.com/pmelab/contextual_aliases)
 - **Data**
   - [config_pages](https://drupal.org/project/config_pages) 
 - **Subrequests, nesting**
