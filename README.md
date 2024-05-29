@@ -233,6 +233,7 @@ Sources: [1](https://gist.github.com/literat/4f7c8a4a9b9d113886df77fa34228623), 
 - [#druxt (NuxtJS)](https://app.slack.com/client/T06GX3JTS/C01ALFZ8459)
 - [#vue](https://app.slack.com/client/T06GX3JTS/C9SR65F6K)
 - [#custom-elements](https://app.slack.com/client/T06GX3JTS/C01G23CS86Q)
+- [#api-client](https://app.slack.com/client/T06GX3JTS/C05BP6659U0)
 
 ### Drupal modules
 
@@ -371,6 +372,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 
 #### Other
 
+- [api_client](https://www.drupal.org/project/api_client)
 - [services](https://www.drupal.org/project/services)
 - [pdb](https://drupal.org/project/pdb)
 - **[relaxed](https://drupal.org/project/relaxed)**
