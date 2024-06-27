@@ -352,10 +352,9 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 
 #### GraphQL
 
-(Advice: Do not prefer GraphQL over JSON API except if there are special requirements)
-
 - **[graphql](https://drupal.org/project/graphql)**
 - [graphql_compose](https://www.drupal.org/project/graphql_compose)
+- [graphql_directives](https://github.com/AmazeeLabs/graphql_directives)
 - [graphql_entity_by_object](https://drupal.org/project/graphql_entity_by_object)
 - [graphql_entity_definitions](https://drupal.org/project/graphql_entity_definitions)
 - [graphql_extras](https://drupal.org/project/graphql_extras)
