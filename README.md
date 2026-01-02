@@ -284,6 +284,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - [jsonapi_field_formatter](https://www.drupal.org/project/jsonapi_field_formatter)
   - [page_manager](https://drupal.org/project/page_manager)
   - [jsonapi_user_resources](https://drupal.org/project/jsonapi_user_resources)
+  - [jsonapi_frontend](https://www.drupal.org/project/jsonapi_frontend)
 - **Search**
   - **[jsonapi_search_api](https://www.drupal.org/project/jsonapi_search_api)**
 - **Preview**
