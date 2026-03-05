@@ -394,6 +394,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
 ### Drupal starter-kits with JS frameworks
 
 - https://next-drupal.org (Next)
+- https://github.com/pantheon-systems/decoupled-kit-js (SDKs, starters, npm packages for Drupal)
 - https://druxtjs.org (Nuxt)
 - https://stack.lupus.digital (Nuxt)
 - https://github.com/acquia/next-acms (Next)
