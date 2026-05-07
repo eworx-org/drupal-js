@@ -267,6 +267,7 @@ Note: Modules in emphasis are the most used across the Drupal universe.
   - [jsonapi_example](https://www.drupal.org/project/jsonapi_example)
   - [transform_api](https://www.drupal.org/project/transform_api)
   - [contextual_aliases](https://github.com/pmelab/contextual_aliases)
+  - [entity_webhook](https://www.drupal.org/project/entity_webhook)
 - **Data**
   - [config_pages](https://drupal.org/project/config_pages) 
 - **Subrequests, nesting**
